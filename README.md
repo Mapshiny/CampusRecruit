@@ -73,4 +73,4 @@ offer和面试感受等。感谢大家一起构建秋招资料库。
 
 ## 协议
 
-本仓库所有内容采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议进行许可，转载请注明出处。
+本仓库所有内容采用 [CC Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) 协议进行许可，转载请注明出处。
