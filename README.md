@@ -6,8 +6,7 @@
 [![Check](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/Check.yml/badge.svg?branch=main)](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/Check.yml)
 
 
-## ❤️写在前面
-2023年的秋季校招一片凄凉。往年9月底师兄师姐手上都五六个offer来回挑，而今年的秋招，0 offer的计算机类学生一大片，哪怕是有offer的，也是一些小厂，甚至还有**超发**、**乱发意向**的小厂。
+> 2023年的秋季校招一片凄凉。往年9月底师兄师姐手上都五六个offer来回挑，而今年的秋招，0 offer的计算机类学生一大片，哪怕是有offer的，也是一些小厂，甚至还有**超发**、**乱发意向**的小厂。
 
 本repo收集整理2023年**秋季招聘**的一些资料，主要在于解决并回答[如何准备秋招, ](大厂面经/README.md)[怎么准备项目, ](项目/README.md)[面试过程的坑, ](踩坑经验/README.md)希望能在寒冷的秋季招聘上帮助到大家，提升个人能力，拿到心仪的offer。右上角start关注不迷路，持续更新中。
 
