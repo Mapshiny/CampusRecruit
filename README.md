@@ -1,5 +1,11 @@
 # ✨2023校招资料整理,一个repo支撑你的整个秋招
 
+[![License](https://img.shields.io/github/license/The-Run-Philosophy-Organization/run?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Issues](https://img.shields.io/github/issues/Mapshiny/CampusRecruit?style=flat-square)](https://github.com/Mapshiny/CampusRecruit/issues)
+[![Stars](https://img.shields.io/github/stars/Mapshiny/CampusRecruit?style=flat-square)](https://star-history.com/#Mapshiny/CampusRecruit&Date)
+[![Check](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/Check.yml/badge.svg?branch=main)](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/Check.yml)
+
+
 ## ❤️写在前面
 2023年的秋季校招一片凄凉。往年9月底师兄师姐手上都五六个offer来回挑，而今年的秋招，0 offer的计算机类学生一大片，哪怕是有offer的，也是一些小厂，甚至还有**超发**、**乱发意向**的小厂。
 
