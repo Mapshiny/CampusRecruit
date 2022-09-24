@@ -8,7 +8,7 @@
 欢迎大家通过提交PR（Pull Request）的方式，补充自己在秋招求职过程中的经历，以及一些面试题目，格式最好包括时间、笔试、面试、面试时间、
 offer和面试感受等。感谢大家一起构建秋招资料库。
 
-如何提交PR？创建自己的Github账号，fork本repo，然后在自己的repo中修改，修改完成后，点击Pull Request，提交PR，等待管理员审核通过即可。
+如何提交PR？创建自己的[Github账号](https://github.com/)，fork本repo，然后在自己的repo中修改，修改完成后，点击Pull Request，提交PR，等待管理员审核通过即可。
 
 
 
