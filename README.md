@@ -60,6 +60,7 @@
 - [全球最大的电子书库](https://z-lib.org/)
 - [bilibili](https://www.bilibili.com/)
 - [leetcode](https://leetcode-cn.com/)
+- [High Scalability](http://highscalability.com/)
 
 
 ## 💡阅读大纲
