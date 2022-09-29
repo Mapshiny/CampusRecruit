@@ -71,7 +71,7 @@
 2. [编程语言基础](https://github.com/Mapshiny/CampusRecruit/tree/main/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80) C/C++、Java、Python、Go等
 3. [面试tips](https://github.com/Mapshiny/CampusRecruit/tree/main/%E9%9D%A2%E8%AF%95tips) 面试技踩坑经验巧、面试题等
 4. [算法](https://github.com/Mapshiny/CampusRecruit/tree/main/%E7%AE%97%E6%B3%95) 算法基础、算法题等
-5. [基础数学](https://github.com/Mapshiny/CampusRecruit/tree/main/%E8%AF%BE%E5%A4%96%E7%9F%A5%E8%AF%86) 数学、逻辑、统计与概率等
+5. [基础数学](基础数学/README.md) 数学、逻辑、统计与概率等
 6. [踩坑经验](https://github.com/Mapshiny/CampusRecruit/tree/main/%E8%B8%A9%E5%9D%91%E7%BB%8F%E9%AA%8C) 简历制作、回答话术等
 7. [大厂面经](大厂面经/README.md) 腾讯、阿里、字节等面经整理
 8. 待整理。。。
