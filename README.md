@@ -22,6 +22,11 @@
 - [我的踩坑经历---5次倒在了Hr面](面试tips/README.md)
 - 学习路线
 - [大厂面经](大厂面经/README.md)
+- [如何找合适的C++项目给自己的简历加分？](https://www.zhihu.com/question/280881677/answer/2604431959)
+- [如何设计秒杀系统？](https://www.zhihu.com/question/54895548/answer/146924420)
+- [24届秋招会更惨吗？](https://www.zhihu.com/question/554583572/answer/2695451377)
+- [C++多线程并发基础入门教程](https://zhuanlan.zhihu.com/p/194198073)
+- [如何得到 Google 的工作机会？](https://www.zhihu.com/question/24099873/answer/2346158870)
 
 
 
@@ -46,6 +51,13 @@
 | 综合       | [2021 腾讯技术十大热门文章](https://mp.weixin.qq.com/s/F1MlLKfEhAqo_6LMyFfFBw) | 腾讯技术工程 |
 | C++        | [C++ 智能指针最佳实践&源码分析](https://mp.weixin.qq.com/s/b_xlJF1-Cplgs-uawWuUow) | 腾讯技术工程 |
 | Linux      | [Linux I/O 那些事儿](https://mp.weixin.qq.com/s/diKfeu1-Lr4ZA5Ky_66TZg) | 腾讯技术工程 |
+| 网络       | [深入理解ICMP协议](https://zhuanlan.zhihu.com/p/369623317)   | 知乎         |
+| 计算机系统 | [多核处理器上的MMU和TLB](https://blog.csdn.net/gzxb1995/article/details/104910787) | CSDN         |
+| 操作系统   | [彻底理解mmap()](https://blog.csdn.net/Holy_666/article/details/86532671) | CSDN         |
+| HTTPS      | [密码学之数字签名是什么](https://blog.csdn.net/qq_16645099/article/details/82872751) | CSDN         |
+| 数据库     | [Mysql45讲](https://funnylog.gitee.io/mysql45/)              | Gitee        |
+| 算法       | [LeetCode 刷题常用数据结构（Java 中的实现）](https://blog.csdn.net/m0_47671600/article/details/106144094) | CSDN         |
+| 面试       | [HR面试经典50题](https://zhuanlan.zhihu.com/p/508654576)     | 知乎         |
 
 
 
