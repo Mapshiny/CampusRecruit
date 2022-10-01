@@ -16,6 +16,13 @@
 
 如何提交PR？创建自己的[Github账号](https://github.com/)，fork本repo，然后在自己的repo中修改，修改完成后，点击Pull Request，提交PR，等待管理员审核通过即可。
 
+## 🍔本站精华
+
+- [简历设计指导](面试tips/Resume.md)
+- [我的踩坑经历---5次倒在了Hr面](面试tips/README.md)
+- 学习路线
+- [大厂面经](大厂面经/README.md)
+
 
 
 ## 🎉精华文章
