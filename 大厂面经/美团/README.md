@@ -13,23 +13,12 @@
 
 
 
-## <span id="java">Java</span>
-
-- DAO层怎么开发的 
-- 数据库表怎么设计的，表之间的关联怎么实现的 
-- 项目里面用到了什么设计模式 
-- Kafka在项目里怎么用的 
-- Redis在项目里怎么用的，为什么用redis ？
-- redis为什么这么快（从线程模型6.0之前和之后，多路复用select，poll和epoll，数据结构展开） 
-
-
-
 ## <span id="cpp">C/C++</span>
 
 - 内存泄露，你是怎么定位的? gdb 调试定位到具体的模块，然后分析代码实现部分。
 - malloc 和 new 区别？虚拟内存和物理内存
 - 左值右值
-- 内存对齐
+- 内存对齐, 为什么要对齐？（计算机取数据按总线宽度进行取，一次取整个总线宽度的数据，对齐保证一次取完）
 
 
 ## <span id="linux">Linux</span>
@@ -55,7 +44,7 @@
 
 ## <span id="frontend">前端</span>
 
- 
+
 -  Webpack的loader和plugin的区别？
 -  前端监控了解吗？我以为是性能监控，面试官提醒是错误监控，然后我说了Vue中的三种方案
 -  webpack的source-map了解吗？ 
