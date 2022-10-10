@@ -1,4 +1,4 @@
-# ✨2023校招资料整理,一个repo支撑你的整个秋招
+# ✨2023校招资料整理（持续更新中...)
 
 [![License](https://img.shields.io/github/license/The-Run-Philosophy-Organization/run?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Issues](https://img.shields.io/github/issues/Mapshiny/CampusRecruit?style=flat-square)](https://github.com/Mapshiny/CampusRecruit/issues)
