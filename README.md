@@ -39,7 +39,7 @@ repo收集整理2023年作者自身的**秋季招聘**的一些资料，主要�
 
 
 ## 🍔本站精华
-
+- [双非本211硕的23届秋招总结，Linux C/C++开发](https://www.nowcoder.com/discuss/1087052)
 - [简历设计指导](面试tips/Resume.md)
 - [我的踩坑经历---5次倒在了Hr面](面试tips/README.md)
 - 学习路线
