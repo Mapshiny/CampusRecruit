@@ -27,7 +27,7 @@
 
 ### 正态分布
 
- ![img](https://bkimg.cdn.bcebos.com/formula/d8fc1a3696534a47f23d6bcb60c1212c.svg) 
+ ![正态分布](https://bkimg.cdn.bcebos.com/formula/d8fc1a3696534a47f23d6bcb60c1212c.svg) 
 
 ### 期望、方差
 
@@ -35,9 +35,38 @@
 
 ### 分布
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190305135146219.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTMwNDM3NjI=,size_16,color_FFFFFF,t_70)
+![分布](https://img-blog.csdnimg.cn/20190305135146219.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTMwNDM3NjI=,size_16,color_FFFFFF,t_70)
 
 
 
+## <span id="AOL">✨线性代数</span>
+
+### 行列式
+
+矩阵的行列式，determinate（简称det），是基于矩阵所包含的行列数据计算得到的一个标量。是为求解线性方程组而引入的。
+
+### 二阶行列式
+
+对角线相乘减去对角线相乘
+
+![二阶行列式计算](https://img-blog.csdn.net/20161127170020443)
+
+### 行列式的性质
+
+性质1  行列式与它的转置行列式相等
+注：行列式中行与列具有同等的地位,行列式的性质凡是对行成立的对列也同样成立.
+
+性质2  互换行列式的两行（列）,行列式变号
+推论  如果行列式有两行（列）完全相同，则此行列式为零
+
+性质3  行列式的某一行（列）中所有的元素都乘以同一个倍数k，等于用数k乘以此行列式.
+推论    行列式的某一行（列）中所有元素的公因子可以提到行列式符号的外面．
+
+性质4  行列式中如果有两行（列）元素成比例，则此行列式为零．
+
+性质5  若行列式的某一列（行）的元素都是两数之和,则等于对应的两个行列式之和.
 
 
+### 矩阵
+
+![矩阵](https://img-blog.csdn.net/20161127223102512)
