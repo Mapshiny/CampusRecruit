@@ -63,14 +63,18 @@ repo收集整理2023年作者自身的**秋季招聘**的一些资料，讨论�
 | 计算机网络 | [了解 HTTP 看这一篇就够](https://mp.weixin.qq.com/s/JVQPy8hAVoq1pRq63HKBOw) | 腾讯技术工程 |
 | C++        | [终极 C++避坑指南](https://mp.weixin.qq.com/s/Isr5-FojMTRK36g-Gh2_yQ) | 腾讯技术工程 |
 | 数据结构   | [手写了个可能是Github性能最强的Go跳表](https://mp.weixin.qq.com/s/BPTrtRs_rQNCUmK05jO9aQ) | 腾讯技术工程 |
+| 数据库     | [万字图文讲透数据库缓存一致性问题](https://mp.weixin.qq.com/s/U87wrGsx0Eop3CbF9mlTwQ) | 腾讯技术工程 |
+| 数据库     | [带你走进 Redis ](https://mp.weixin.qq.com/s/4bAPVdUr_XbIw9xFCtWhfw) | 腾讯技术工程 |
 | 数据库     | [一文搞懂 Redis 架构演化之路](https://mp.weixin.qq.com/s/QssILJLna_v7XQWtV5UMzA) | 腾讯技术工程 |
 | 计算机网络 | [深入理解 Linux 的 TCP 三次握手](https://mp.weixin.qq.com/s/G2LuRZjQE15F6fSU-Bv_jw) | 腾讯技术工程 |
 | 操作系统   | [浅谈协程](https://mp.weixin.qq.com/s/SyWjLg3lYx3pIJQfEtik8Q) | 腾讯技术工程 |
+| 操作系统   | [当谈论协程时，我们在谈论什么 ](https://mp.weixin.qq.com/s/IO4ynnKEfy2Rt-Me7EIeqg) | 腾讯技术工程 |
 | 操作系统   | [异步编程指北](https://mp.weixin.qq.com/s/TvHY2i1FX1zS_WHdCvK-wA) | 腾讯技术工程 |
 | 操作系统   | [深入揭秘 epoll 是如何实现 IO 多路复用的](https://mp.weixin.qq.com/s/9vVs2olnfoVEpoJCFWUmMQ) | 腾讯技术工程 |
 | 前端       | [大规模 Node.js 网关架构设计与工程实践](https://mp.weixin.qq.com/s/FleA75Frfswy0791giOjZg) | 腾讯技术工程 |
 | 前端       | [2021 大前端技术回顾及未来展望](https://mp.weixin.qq.com/s/f_yRLrJV0lBxQV1Z55_JeQ) | 腾讯技术工程 |
 | Go         | [深入了解 Go 语言与并发编程](https://mp.weixin.qq.com/s/obFUsRnppgEsGkoo08nWeQ) | 腾讯技术工程 |
+| 架构设计   | [深入解读Raft算法与etcd工程实现 ](https://mp.weixin.qq.com/s/x-AdmN0UN5KT58XWO1BCOA) | 腾讯技术工程 |
 | 架构设计   | [浅谈缓存最终一致性的解决方案](https://mp.weixin.qq.com/s/Y9S89MT0uAobzRKgYVrI9Q) | 腾讯技术工程 |
 | 综合       | [2021 腾讯技术十大热门文章](https://mp.weixin.qq.com/s/F1MlLKfEhAqo_6LMyFfFBw) | 腾讯技术工程 |
 | C++        | [C++ 智能指针最佳实践&源码分析](https://mp.weixin.qq.com/s/b_xlJF1-Cplgs-uawWuUow) | 腾讯技术工程 |
