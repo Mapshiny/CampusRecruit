@@ -32,6 +32,7 @@ repo收集整理2023年作者自身的**秋季招聘**的一些资料，讨论�
 ## 🧭秋招必知
 
 - 重要程度排名：**实习** >>> **算法** >>> 学校 >>> 项目 >  论文\专利\竞赛。
+- 完善自己的Github profile，坚持commit点亮绿色格子，简历上附上Github链接，意义远大于在简历上吹牛逼。
 - [手撕算法](算法/README.md)占面评的70%，手撕算法写不出来，面试毫无悬念要被挂。
 - 手撕算法99%来源 [《 剑指 Offer 》](https://leetcode.cn/problem-list/xb9nqhhg/)、[ LeetCode 热题 HOT 100 ](https://leetcode.cn/problem-list/2cktkvj/)
 - 注重场景题，海量数据问题、TopK问题、排序算法等，特别是Topk问题，实际生活中用的最广，比如一个Web Server如何管理不活跃链接，可用TopK算法定期剔除前K个不活跃链接。
