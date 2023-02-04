@@ -31,6 +31,7 @@ repo收集整理2023年作者自身的**秋季招聘**的一些资料，讨论�
 
 ## 🧭秋招必知
 
+- [ChatGPT Passes Google Programming Interview For Level 3 Engineer](https://canadatoday.news/ca/chatgpt-passes-google-programming-interview-for-level-3-engineer-with-183000-salary-254144/)
 - 重要程度排名：**实习** >>> **算法** >>> 学校 >>> 项目 >  论文\专利\竞赛。
 - 完善自己的Github profile，坚持commit点亮绿色格子，简历上附上Github链接，意义远大于在简历上吹牛逼。
 - [手撕算法](算法/README.md)占面评的70%，手撕算法写不出来，面试毫无悬念要被挂。
